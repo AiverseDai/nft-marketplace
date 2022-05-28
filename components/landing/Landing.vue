@@ -8,7 +8,7 @@
             <source srcset="~/assets/KODADOT.png" type="image/png" />
             <img
               src="~/assets/KODADOT.png"
-              alt="First NFT market explorer on Kusama and Polkadot"
+              alt="First NFT market explorer on Cronos"
               class="mb-5 is-hidden-mobile"
               width="950"
               height="165"
@@ -17,7 +17,7 @@
           <h3
             class="title is-1 is-size-3-mobile is-flex is-flex-direction-column uppercase homepage__heading">
             <span class="text__stroked my-5">
-              Discover, collect and sell Kusama NFTs
+              Discover, collect and sell Abhi NFTs
             </span>
             <span class="title is-6 homepage__subtitle uppercase text-semibold">
               Built on
@@ -25,11 +25,11 @@
             </span>
           </h3>
           <a
-            href="https://discord.gg/35hzy2dXXh"
+            href="https://discord.gg/kzDVurAC"
             target="_blank"
             rel="noopener noreferrer">
             <img
-              src="https://badgen.net/discord/online-members/35hzy2dXXh"
+              src="https://badgen.net/discord/online-members/kzDVurAC"
               alt="Discord"
               width="354"
               height="40"
