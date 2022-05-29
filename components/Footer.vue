@@ -83,34 +83,9 @@ interface Menu {
 export default class Footer extends Vue {
   public menu: Menu[] = [
     {
-      name: this.$t('about'),
-      url: '/about',
-    },
-    {
-      name: this.$t('faq.page'),
-      url: '/rmrk/faq',
-    },
-    {
-      name: this.$t('documentation'),
-      url: 'https://docs.aiverse/',
-      external: true,
-    },
-    {
-      name: this.$t('contribute'),
-      url: '/contribute',
-    },
-    {
-      name: this.$t('careers'),
-      url: '/jobs',
-    },
-    {
-      name: this.$t('press kit'),
+      name: this.$t('About'),
       url: '#',
       external: true,
-    },
-    {
-      name: this.$t('qrCode'),
-      url: '/qrCode',
     },
   ]
 }
