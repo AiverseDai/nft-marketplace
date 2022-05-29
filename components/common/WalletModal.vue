@@ -15,7 +15,7 @@
         <div class="has-text-centered">
           <img
             src="~/assets/Koda_Beta.svg"
-            alt="First NFT market explorer on Kusama and Polkadot"
+            alt="First NFT market explorer on Cronos"
             height="32" />
         </div>
 
