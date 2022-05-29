@@ -26,22 +26,22 @@ export default class QRCode extends Vue {
     {
       title: 'Discord',
       img: Discord,
-      link: 'https://discord.gg/u6ymnbz4PR',
+      link: 'https://discord.gg/kzDVurAC',
     },
     {
       title: 'Twitter',
       img: Twitter,
-      link: 'https://twitter.com/KodaDot',
+      link: '#',
     },
     {
       title: 'Github',
       img: Github,
-      link: 'https://github.com/kodadot/nft-gallery',
+      link: '#',
     },
     {
       title: 'Instagram',
       img: Instagram,
-      link: 'https://instagram.com/kodadot.xyz',
+      link: '#',
     },
   ]
 }
